@@ -12,7 +12,7 @@ __run_analysis.R__
 __result.txt__
 * output - the file result of the output by running the command on the returned result variable mentioned above: 
 	* write.table(result,'result.txt', row.names = FALSE)	
-	* this output deliberately includes all column names with the words that include mean or std cahracters
+	* this output deliberately includes all column names with the words that include mean or std characters
 	* sorted by activity id in ascending order, but activity id column has been deleted so only activity names are visible
 	
 __UCIHARDataset__
